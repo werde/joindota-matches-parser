@@ -2,12 +2,14 @@ joindota-matches-parser<br/>
 =======================<br/>
 <br/>
 Usage:<br/>
+```javascript
 joindota.getJDMatches(<br/>
   URL, <br/>
   function(eventsArray){<br/>
   	callback(eventsArray);<br/>
   }<br/>
 )<br/>
+```
 <br/>
 match Object: <br/>
 	team1: string<br/>
