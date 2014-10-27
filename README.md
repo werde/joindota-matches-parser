@@ -11,7 +11,7 @@ joindota.getJDMatches(
 )
 ```
 <br/>
-match Object: <br/>
+events object: <br/>
 *	team1: string<br/>
 *	team2: string<br/>
 *  winner:<br/>
