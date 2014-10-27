@@ -3,12 +3,12 @@ joindota-matches-parser<br/>
 <br/>
 Usage:<br/>
 ```javascript
-joindota.getJDMatches(<br/>
-  URL, <br/>
-  function(eventsArray){<br/>
-  	callback(eventsArray);<br/>
-  }<br/>
-)<br/>
+joindota.getJDMatches(
+  URL, 
+  function(eventsArray){
+  	callback(eventsArray);
+  }
+)
 ```
 <br/>
 match Object: <br/>
