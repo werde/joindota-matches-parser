@@ -9,7 +9,7 @@ joindota.getJDMatches(
   }
 )
 
-match Object:
+match Object: \n
 	team1: string
 	team2: string
   winner:
